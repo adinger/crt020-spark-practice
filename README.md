@@ -1,5 +1,5 @@
 # crt020-spark-practice
-Practice for CRT020 Spark certification exam
+Practice for the Databricks Spark certification exam
 
 https://academy.databricks.com/exam/databricks-certified-associate-developer
 
